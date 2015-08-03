@@ -1,4 +1,6 @@
-s course introduces the statistical and algorithmic principles required to develop scalable machine learning pipelines, and provides hands-on experience using Apache Spark.
+BerkeleyX: CS190.1x Scalable Machine Learning
+
+This course introduces the statistical and algorithmic principles required to develop scalable machine learning pipelines, and provides hands-on experience using Apache Spark.
 
 Week 1:
 Lecture 1 provides a course overview and presents core machine learning and mathematical concepts.
