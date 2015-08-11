@@ -10,7 +10,6 @@ Lab 1: NumPy, Linear Algebra, and Lambda Function Review. Gain hands on experien
 WEEK 2: Introduction to Apache Spark 
 Topics: Big data and hardware trends, history of Apache Spark, Spark's Resilient Distributed Datasets (RDDs), transformations, and actions. 
 Lab 2: Learning Apache Spark. Perform your first course lab where you will learn about the Spark data model, transformations, and actions, and write a word counting program to count the words in all of Shakespeare's plays.  
-Note to CS100.1x students: This material is identical to Week 2 of BerkeleyX CS100.1x, and if you've already completed Lab 1 of CS100.1x you can simply submit your completed notebook to receive credit.
 
 WEEK 3: Linear Regression and Distributed Machine Learning Principles 
 Topics: Linear regression formulation and closed-form solution, distributed machine learning principles (related to computation, storage, and communication), gradient descent, quadratic features, grid search.
